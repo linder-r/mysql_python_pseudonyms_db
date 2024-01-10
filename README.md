@@ -1,5 +1,5 @@
 # mysql_python_pseudonyms_db
-A repository to practice connecting to a MySQL database using Python
+## A repository to practice connecting to a MySQL database using Python
 
 The goal of this repository is to create and populate a MySQL database using Python. Python will also be used to query the database and to alter the data.
 
