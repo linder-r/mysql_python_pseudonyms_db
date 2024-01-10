@@ -11,19 +11,24 @@ The database consists of four tables:
 3. **'categories'**: All the categories the historical figures belonged to (Literature, Politics, Architecture...)
 4. **'relationship'**: The connection between the three other tables
 
-The repository contains files:
+The repository contains five files:
 
 1. **er-diagram_pseudonym_db.png**
+
 This file shows the entity-relationship-diagram of the pseudonyms database.
 
 2. **er_diagram_pseudonym_db.mwb**
+
 The entity-relationship-diagram of the pseudonyms database as a MySQL-Workbench file.
 
 3. **python-mysql-pseudonym.ipynb**
+
 This Jupyter Notebook contains the Python code to connect to MySQL and create the database, populate it with data, query and change the data.
 
 4. **pseudonym_db_dump.sql**
+
 The setup and the date of the newly created pseudonyms database.
 
 5. **list_of_pseudonyms.csv**
+
 This file contains the data of the pseudonyms database.
