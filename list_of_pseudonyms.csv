@@ -1,0 +1,30 @@
+pseudonym_id,pseudonym,real_name_id,real_name,date_of_birth,category_id,category
+27,H. Bustos Domecq,25,Jorge Luis Borges,1899,3,Literature
+26,Willy Brandt,12,Herbert Frahm,1913,9,Politics
+25,Voltaire,9,François-Marie Arouet,1694,8,Philosophy
+24,Tintoretto,14,Jacopo Robusti,1518,7,Painting
+23,Student,24,William Sealy Gosset,1876,10,Statistics
+22,Stendahl,18,Marie-Henri Beyle,1783,3,Literature
+21,Robert Neuner,7,Erich Kästner,1899,3,Literature
+20,Publius,1,Alexander Hamilton,1755,9,Politics
+20,Publius,15,James Madison,1751,9,Politics
+20,Publius,16,John Jay,1745,9,Politics
+19,Peter Flint,7,Erich Kästner,1899,3,Literature
+18,Paracelsus,23,Theophrastus Bombastus von Hohenheim,1493,4,Medicine
+17,Pablo Neruda,20,Ricardo Eliezer Neftalí Reyes Basoalto,1904,3,Literature
+16,Melchior Kurtz,7,Erich Kästner,1899,3,Literature
+15,Mark Twain,21,Samuel Langhorne Clemens,1835,3,Literature
+14,Marilyn Monroe,19,Norma Jeane Mortenson,1926,5,Film
+13,Leo Trotzki,17,Lew Dawidowitsch Bronstein,1879,9,Politics
+12,Le Corbusier,4,Charles-Édouard Jeanneret,1887,1,Architecture
+11,Johannes de Silentio,22,Søren Kierkegaard,1813,8,Philosophy
+10,Freddie Mercury,8,Farrokh Bulsara,1946,6,Music
+9,Ellis Bell,6,Emily Brontë,1818,3,Literature
+8,Dosso Dossi,11,Giovanni di Niccolò de Luteri,1469,7,Painting
+7,Currer Bell,5,Charlotte Brontë,1816,3,Literature
+6,Constantin Constantius,22,Søren Kierkegaard,1813,8,Philosophy
+5,Berthold Bürger,7,Erich Kästner,1899,3,Literature
+4,Aron Hector Schmitz,13,Italo Svevo,1861,3,Literature
+3,Antonio Pratolini,10,Giacomo Casanova,1725,2,Espionage 
+2,Anthony Quinn,3,Antonio Rodolfo Quinn Oaxaca,1915,5,Film
+1,Acton Bell,2,Anne Brontë,1820,3,Literature
